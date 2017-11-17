@@ -6113,6 +6113,9 @@ p i {
 .uou-block-1a .social li a.fa-google-plus {
 	background: #dd4b39;
 }
+.uou-block-1a .social li a.fa-instagram {
+	background: #517fa4;
+}
 .uou-block-1a .social li a:hover.fa-facebook {
 	background: #2d4474;
 }
@@ -6121,6 +6124,9 @@ p i {
 }
 .uou-block-1a .social li a:hover.fa-google-plus {
 	background: #c23321;
+}
+.uou-block-1a .social li a:hover.fa-instagram {
+	background: #405a6f;
 }
 @media (max-width: 767px) {
 .uou-block-1a {
