@@ -8349,7 +8349,7 @@ app-root {
   width: 100%; }
 
 .header-fixed .app-body {
-  margin-top: 55px; }
+  margin-top: 0px; }
 
 .sidebar-hidden .sidebar {
   margin-left: -200px; }
